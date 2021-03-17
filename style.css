@@ -1,0 +1,143 @@
+body{
+
+	margin: 0;
+	font-family: Courier New, Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	
+
+}
+
+header{
+
+	background-color: teal;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+header h1{
+
+	color: white;
+	font-size: 60px;
+
+}
+
+p, li{
+
+	font-family: Century Gothic;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header img{
+
+	border-radius: 600px;
+	border: 10px solid #003300;
+	height: 600px;
+
+}
+
+main{
+
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+
+}
+
+main img{
+
+	max-width: 100%;
+	border: 10px solid #003300;
+	border-radius: 200px;
+	margin-bottom: 0;
+
+}
+
+h2{
+
+	font-size: 40px;
+	color: green;
+	text-transform: uppercase;
+	margin: 40px 0 10px;
+
+}
+
+a{
+
+	color: green;
+
+}
+
+main a:hover{
+
+	background-color: #ccffcc;
+	color: #003300;
+	text-decoration: none;
+
+}
+
+span{
+
+	text-decoration: none;
+
+}
+
+footer{
+
+	background-color: teal;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer a{
+
+	color: white;
+
+
+}
+
+footer p a:hover{
+
+	background-color: #ccffcc;
+	color: #003300;
+	text-decoration: none;
+
+}
+
+footer p{
+
+	margin: 0;
+
+}
+
+.caption{
+
+	font-size: 13.4px;
+	font-family: Helvetica;
+	color: #009900;
+	font-style: italic;
+	margin-top: 0;
+	margin-left: 37%;
+
+}
+
+div img{
+
+	width: 50px;
+
+}
+
+div a{
+
+	color: none;
+
+}
+div a:hover{
+
+	background-color: none;
+
+}
