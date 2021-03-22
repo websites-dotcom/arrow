@@ -22,4 +22,4 @@ var changeImg = function(){
 
 }
 
-window.onload = changeImg;
+window.onload = changeImg
