@@ -11,12 +11,7 @@ var changeImg = function(){
 
 	document.slide.src = images[n];
 
-	if(n<images.length - 1){
-		n++;
-	}
-	else{
-		n = 0;
-	}
+	
 
 	setTimeout("changeImg()", time);
 
